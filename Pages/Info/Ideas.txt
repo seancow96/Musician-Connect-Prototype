@@ -1,0 +1,21 @@
+Idea:Social network for musicians. Make android app aswell.
+
+Features: Main- Tinder like match system that allows you to put in your detais of what you want and match with someone to join a band.
+          involves chat window
+
+Main-songwriting tool allows people to record song and write lyrics on a notepad like thing where you play the song while writing lyrics.
+
+-send songs to people
+
+-Music news
+-chat option 
+
+
+Advertising: Spotify
+             deezer
+             band merchantise
+             
+
+Design:Orange/red color throughout and greyish divs
+-Loads of music related pictures
+
